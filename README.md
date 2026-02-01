@@ -15,3 +15,13 @@ The platform includes features such as multi-language support, regional pricing,
 Magento, Product Configurator, Watch Industry, E-commerce, Design
 Minus-8 Watch
 
+
+<img width="1431" height="765" alt="i1" src="https://github.com/user-attachments/assets/3d97d7dc-a801-4790-9348-6126e26d8084" />
+
+<img width="1073" height="959" alt="i2" src="https://github.com/user-attachments/assets/ead185d7-bc23-408c-94f4-d5cc504fc85f" />
+
+<img width="1049" height="980" alt="i3" src="https://github.com/user-attachments/assets/dd3fe134-dfd9-496f-9590-8ca5dd9a236e" />
+
+<img width="1049" height="1170" alt="i4" src="https://github.com/user-attachments/assets/207acf59-152d-486f-95a4-c2466d58034a" />
+
+<img width="1049" height="1247" alt="i5" src="https://github.com/user-attachments/assets/572832f8-1e48-4196-beab-a0e1874709cf" />
